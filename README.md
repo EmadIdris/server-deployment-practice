@@ -16,3 +16,8 @@
 main branch server: https://server-deployment-practice-mai.herokuapp.com/
 
 dev branch server: https://server-deployment-practice01.herokuapp.com/
+
+***
+
+# Pull requests
+dev to main pull request: https://github.com/EmadIdris/server-deployment-practice/pull/2
